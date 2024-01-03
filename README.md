@@ -1,6 +1,6 @@
 # 2024_GenomeWideMethylationPaper
 
-This repository contains all the accessory scripts used in the paper LaFlamme, Christy W., et al. "Diagnostic Utility of Genome-wide DNA Methylation Analysis in Genetically Unsolved Developmental and Epileptic Encephalopathies and Refinement of a CHD2 Episignature." medRxiv (2023): 2023-10.
+This repository contains all the accessory scripts used in the paper LaFlamme, Christy W., _et al_. "Diagnostic Utility of Genome-wide DNA Methylation Analysis in Genetically Unsolved Developmental and Epileptic Encephalopathies and Refinement of a CHD2 Episignature." _medRxiv_ (2023): 2023-10.
 
 ## Description of scripts
 DMR_intersect_Array.pl : 
