@@ -2,7 +2,7 @@
 
 This repository contains all the accessory scripts used in the paper LaFlamme, Christy W., _et al_. "Diagnostic Utility of Genome-wide DNA Methylation Analysis in Genetically Unsolved Developmental and Epileptic Encephalopathies and Refinement of a CHD2 Episignature." _medRxiv_ (2023): 2023-10.
 
-## Description of scripts
+### Description of scripts
 1. [*DMR_intersect_Array.pl*](https://github.com/MeffordLab/2024_GenomeWideMethylationPaper/blob/main/DMR_intersect_Array.pl) : Script to intersect DMRcate and Bumphunter calls for Array.  
 2. [*DMR_intersect_WGBS.pl*](https://github.com/MeffordLab/2024_GenomeWideMethylationPaper/blob/main/DMR_intersect_WGBS.pl) : Script to intersect DMRcate and DSS calls for WGBS.  
 3. [*annotation_percentage_calculator_T1.WGBS.pl*](https://github.com/MeffordLab/2024_GenomeWideMethylationPaper/blob/main/annotation_percentage_calculator_T1.WGBS.pl) : Script to calculate proportional annotation for each CpG island w.r.t to intergenic, islands, shelves and shores in WGBS data.  
