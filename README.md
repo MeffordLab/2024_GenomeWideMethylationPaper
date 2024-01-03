@@ -3,7 +3,7 @@
 This repository contains all the accessory scripts used in the paper LaFlamme, Christy W., et al. "Diagnostic Utility of Genome-wide DNA Methylation Analysis in Genetically Unsolved Developmental and Epileptic Encephalopathies and Refinement of a CHD2 Episignature." medRxiv (2023): 2023-10.
 
 ## Description of scripts
-DMR_intersect_Array.pl : 
+DMR_intersect_Array.pl : Script to intersect DMRcate and Bumphunter calls for Array \\
 DMR_intersect_WGBS.pl : 
 annotation_percentage_calculator_T1.WGBS.pl :
 annotation_percentage_calculator_T2.EPIC.and.WGBSOverlap.pl :
